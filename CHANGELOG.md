@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/google-auth-library-nodejs?activeTab=versions
 
+## [5.8.0](https://www.github.com/googleapis/google-auth-library-nodejs/compare/v5.7.0...v5.8.0) (2019-12-24)
+
+
+### Features
+
+* cache results of getEnv() ([#857](https://www.github.com/googleapis/google-auth-library-nodejs/issues/857)) ([d4545a9](https://www.github.com/googleapis/google-auth-library-nodejs/commit/d4545a9001184fac0b67e7073e463e3efd345037))
+
 ## [5.7.0](https://www.github.com/googleapis/google-auth-library-nodejs/compare/v5.6.1...v5.7.0) (2019-12-10)
 
 
